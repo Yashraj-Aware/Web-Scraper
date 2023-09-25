@@ -1,0 +1,8 @@
+#Dependency directories
+node_modules/
+
+#scraper generated files
+data/
+
+#test generated files
+test-data/
